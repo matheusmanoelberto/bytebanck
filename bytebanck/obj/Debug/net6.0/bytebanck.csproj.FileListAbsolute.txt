@@ -1,0 +1,15 @@
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\bin\Debug\net6.0\bytebanck.exe
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\bin\Debug\net6.0\bytebanck.deps.json
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\bin\Debug\net6.0\bytebanck.runtimeconfig.json
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\bin\Debug\net6.0\bytebanck.dll
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\bin\Debug\net6.0\bytebanck.pdb
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\bytebanck.csproj.AssemblyReference.cache
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\bytebanck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\bytebanck.AssemblyInfoInputs.cache
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\bytebanck.AssemblyInfo.cs
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\bytebanck.csproj.CoreCompileInputs.cache
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\bytebanck.dll
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\refint\bytebanck.dll
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\bytebanck.pdb
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\bytebanck.genruntimeconfig.cache
+C:\Users\MATEUS\source\repos\bytebanck\bytebanck\obj\Debug\net6.0\ref\bytebanck.dll
